@@ -1,9 +1,9 @@
 [
   {
     "Enable": 1,
-    "UserName": "",
-    "Password": "",
-    "CaptchaMode": "0",
+    "UserName": "13386477212",
+    "Password": "Wuxubin!!1229",
+    "CaptchaMode": "https://api.moeclub.org/SampleCode",
     "ViewMode": 0,
     "RefreshToken": "",
     "SubPath": "/CTList",
